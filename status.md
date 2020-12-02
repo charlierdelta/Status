@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Charlie Dunford
 
 #### Your section leader's name
 
-TODO
+N/A
 
 #### Project title
 
-TODO
+Asteroid Escape
 
 ***
 
@@ -18,12 +18,14 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have completed a basic asteroid game with asteroids that break apart when shot until they are destroyed.
 
 #### What have you not done for your project yet?
 
-TODO
+Have not added different stages/areas to travel/explore/play in.
+Have not added different weapon mechanics.
+Have not added different asteroid types.
 
 #### What problems, if any, have you encountered?
 
-TODO
+No major problems worth mentioning.
